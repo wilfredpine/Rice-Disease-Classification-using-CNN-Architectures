@@ -3,10 +3,10 @@
 
 ## **Convolutional Neural Network**
 
-### [1. ResNet50 V2](https://github.com/wilfredpine/Models-for-Image-Classification/blob/main/Trained/CNN%20Architectures/ResNet50.ipynb)
+### [1. ResNet50](https://github.com/wilfredpine/Models-for-Image-Classification/blob/main/Trained/CNN%20Architectures/ResNet50.ipynb)
 
-![ResNet50 V2](https://github.com/wilfredpine/Models-for-Image-Classification/blob/main/Trained/CNN%20Architectures/ResNet50.png)
-![ResNet50 V2](https://github.com/wilfredpine/Models-for-Image-Classification/blob/main/Trained/CNN%20Architectures/ResNet50_Confusion_Matrix.png)
+![ResNet50](https://github.com/wilfredpine/Models-for-Image-Classification/blob/main/Trained/CNN%20Architectures/ResNet50.png)
+![ResNet50](https://github.com/wilfredpine/Models-for-Image-Classification/blob/main/Trained/CNN%20Architectures/ResNet50_Confusion_Matrix.png)
 
 ### [2. MobileNet](https://github.com/wilfredpine/Models-for-Image-Classification/blob/main/Trained/CNN%20Architectures/MobileNet.ipynb)
 
