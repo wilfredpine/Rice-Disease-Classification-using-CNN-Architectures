@@ -16,13 +16,13 @@
 
 ![VGG16](https://github.com/wilfredpine/Models-for-Image-Classification/blob/main/Trained/CNN%20Architectures/VGG16.png)
 
-### [4. VGG19](https://github.com/wilfredpine/Models-for-Image-Classification/blob/main/Trained/CNN%20Architectures/InceptionV3.ipynb)
+### [4. InceptionV3](https://github.com/wilfredpine/Models-for-Image-Classification/blob/main/Trained/CNN%20Architectures/InceptionV3.ipynb)
 
-![VGG19](https://github.com/wilfredpine/Models-for-Image-Classification/blob/main/Trained/CNN%20Architectures/InceptionV3.png)
+![InceptionV3](https://github.com/wilfredpine/Models-for-Image-Classification/blob/main/Trained/CNN%20Architectures/InceptionV3.png)
 
-### [5. VGG19](https://github.com/wilfredpine/Models-for-Image-Classification/blob/main/Trained/CNN%20Architectures/Xception.ipynb)
+### [5. Xception](https://github.com/wilfredpine/Models-for-Image-Classification/blob/main/Trained/CNN%20Architectures/Xception.ipynb)
 
-![VGG19](https://github.com/wilfredpine/Models-for-Image-Classification/blob/main/Trained/CNN%20Architectures/Xception.png)
+![Xception](https://github.com/wilfredpine/Models-for-Image-Classification/blob/main/Trained/CNN%20Architectures/Xception.png)
 ---
 
 
